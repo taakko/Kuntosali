@@ -43,6 +43,7 @@ namespace Kuntosali
     }
     class Program
     {
+        // Varsinainen pääohjelma alkaa tästä
         static void Main(string[] args)
         {
             // Käyttöliittymän muuttujat
